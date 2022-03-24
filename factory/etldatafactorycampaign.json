@@ -1,0 +1,9 @@
+{
+	"name": "etldatafactorycampaign",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7c187172-f645-46c5-8748-fe1719fe4bd9",
+		"tenantId": "86cbe1bb-213f-4271-b174-bd59d03c87a3"
+	}
+}
