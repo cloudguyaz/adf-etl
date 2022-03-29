@@ -1,0 +1,18 @@
+{
+	"name": "AzureSqlDatabase4",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"connectionString": "Integrated Security=False;Encrypt=True;Connection Timeout=30;Data Source=mssqlcampreportdev01.database.windows.net;Initial Catalog=\"etldbindia \"",
+			"credential": {
+				"referenceName": "credential1",
+				"type": "CredentialReference"
+			}
+		},
+		"connectVia": {
+			"referenceName": "AutoResolveIntegrationRuntime",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
