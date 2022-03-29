@@ -1,0 +1,7 @@
+{
+	"name": "AzureSqlDatabase193",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/ee9d629a-f860-4a77-8dbc-95c7177d089c/resourceGroups/INC00-TF-RSGP-CampReport-dev-01/providers/Microsoft.Sql/servers/mssqlcampreportdev01",
+		"groupId": "sqlServer"
+	}
+}
